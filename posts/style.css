@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.jumbotron{
+    background-image: url(https://news.harvard.edu/wp-content/uploads/2019/07/Ocean_PicWEB_2500.jpg?w=1600&h=900&crop=1);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
+}
